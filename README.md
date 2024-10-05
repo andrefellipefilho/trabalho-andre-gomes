@@ -12,7 +12,7 @@ Este projeto consiste em um aplicativo móvel, chamado **News**, que apresenta u
 - **API Notícias IBGE**: [Documentação](https://servicodados.ibge.gov.br/api/docs/noticias?versao=3#api-_)
 - **Figma (Protótipo)**: [Visualizar no Figma](https://www.figma.com/proto/OdLOFHxvk7cxxxwgjy6vVa/NEWS?node-id=0-1&t=UfBH7Ambc4oaWcEf-1)
 - **ARQUITETURA MVVM (VIDEO)**: [Visualizar no Navegador](https://youtu.be/f5Z1FtKW9sk)
-- 
+- **SLIDE**:[CAMINHO PARA O PDF](C:\Users\andre\Downloads\MVVM.pdf)
 ---
 
 ## 📑 Documento de Requisitos
